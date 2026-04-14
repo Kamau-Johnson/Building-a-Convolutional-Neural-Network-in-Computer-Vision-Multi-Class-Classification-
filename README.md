@@ -6,8 +6,9 @@
   <img src="cnn3.png" width="30%" /> 
 </p
 
-### Getting Ready
-
+```
+Getting Ready
+```
 As usual, there are a few things we need to do before we can begin. We'll start by importing the packages we'll need.
 
 
