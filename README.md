@@ -1,9 +1,9 @@
 # Building-a-Convolutional-Neural-Network-in-Computer-Vision-Multi-Class-Classification-
 ## 2.3 Multiclass Classification
 <p float="left"> 
-  <img src="Neural1.png" width="30%" /> 
-  <img src="Neural3.png" width="30%" /> 
-  <img src="Neural2.png" width="30%" /> 
+  <img src="cnn1.png" width="30%" /> 
+  <img src="cnn2.png" width="30%" /> 
+  <img src="cnn3.png" width="30%" /> 
 </p
 
 ### Getting Ready
